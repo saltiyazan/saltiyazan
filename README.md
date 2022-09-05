@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saltiyazan
+- 👋 Hi, I’m Yazan @saltiyazan
 - 👀 I’m interested in machine learning, DevOps and Telco.
 - 🌱 Learning... 
 - 📫 [LinkedIn](https://www.linkedin.com/in/yazan-salti-175736150/)
